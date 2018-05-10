@@ -1,0 +1,12 @@
+test\music\controller\MusicInstrumentController.class
+test\music\model\InfoInstruments.class
+test\music\pojo\MusicalInstruments.class
+test\music\controller\TypeInstrumentController.class
+test\music\dao\MusicInstrumenDao.class
+test\music\dao\TypeInstrumentDao.class
+test\music\repository\TypeRepository.class
+test\music\repository\MusicalInstrumentsRepository.class
+test\music\pojo\TypeInstruments.class
+test\music\ApplicationMusic.class
+test\music\model\InetrumentType.class
+test\music\model\MusicInstrument.class
